@@ -1,13 +1,13 @@
 {
     "name":"Example Listing",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://world.ugandavrc.com/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"legoman@ugandavrc.com",
+        "name":"Legoman99573",
+        "url":"https://ugandavrc.com"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"UgandaVRC Packages",
     "infoLink":{
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
