@@ -18,10 +18,9 @@
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"com.legoman99573.toon-shader",
             "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
+                "https://github.com/Legoman99573/Toon-Shader/releases/download/1.6.1/Legoman99573-Toon-Shader.zip"
             ]
         }
     ]
